@@ -1,0 +1,11 @@
+.cabecalho {
+    grid-area: header;
+}
+
+.menu-lateral {
+    grid-area: aside;
+}
+
+.container {
+    grid-template-columns: auto 1fr;
+}
